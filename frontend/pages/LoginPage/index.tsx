@@ -1,7 +1,7 @@
 
 import React, { useState, FormEvent } from 'react';
-import { login } from '../../shared/api';
-import { User } from '../../shared/types';
+import { login } from '../../../shared/api';
+import { User } from '../../../shared/types';
 
 import BrandLogo from '../../components/icons/BrandLogo';
 import UserIcon from '../../components/icons/UserIcon';
