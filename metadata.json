@@ -1,4 +1,5 @@
 {
   "name": "Secure Login UI",
-  "description": "A modern and responsive login screen with user authentication flow, built with React, TypeScript, and Tailwind CSS. It features input validation, password visibility toggle, loading states, and error handling."
+  "description": "A modern and responsive login screen with user authentication flow, built with React, TypeScript, and Tailwind CSS. It features input validation, password visibility toggle, loading states, and error handling.",
+  "requestFramePermissions": []
 }
